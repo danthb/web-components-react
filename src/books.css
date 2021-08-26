@@ -1,0 +1,20 @@
+.card {
+  margin-bottom: 25px;
+  border-color: var(--secondary);
+}
+
+.card-header {
+  background-color: grey !important;
+  color: white;
+}
+
+.divider {
+  border-color: var(--primary);
+  background-color: var(--primary);
+  text-align: center;
+}
+
+h1 {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
